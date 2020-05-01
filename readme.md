@@ -11,5 +11,6 @@
  http://www.turingapi.com/
  
 ### 4、交互结果文本转语音
-采用华为云语音交互服务api将文本转语音，最后播放
-https://support.huaweicloud.com/sis/index.html
+采用华为云语音交互服务api将文本转语音，
+https://support.huaweicloud.com/sis/index.html  
+最后播放
