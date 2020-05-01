@@ -261,14 +261,14 @@ if __name__ == '__main__':
     AUDIO_FILE = './audio/temp.wav'
     RESULT_FILE = './audio/result.wav'
     # 百度api
-    API_KEY = 'oxWbu1xSZzt7sSmoMhOPRdQP'
-    SECRET_KEY = 'HAnet39TiFXEQUgHfOhTV4ERiuwzwGko'
+    API_KEY = ''
+    SECRET_KEY = ''
     # 华为云api
-    ak = 'GVOC7YSBOBAO3VZ38TPW'
-    sk = 'EpbGXUHTHoffHjj07W8UNWsGhxNEnEPESp7Gr6Qj'
+    ak = ''
+    sk = ''
     # 图灵机器人
-    apiKey = '7529129cf0d64810abcc8b8ff1841bd2'
-    userId = '385537'
+    apiKey = ''
+    userId = ''
     while True:
         audio_record(AUDIO_FILE, 5)
         speechText = wav_to_text(AUDIO_FILE)
