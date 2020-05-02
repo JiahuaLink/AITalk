@@ -4,9 +4,9 @@
 使用PyAudio录音并保存音频文件在本地
 
 ### 2、语音文件转文本
- 将缓存音频的文件百度语音识别api转为文本  
+ 将缓存音频的文件使用百度语音识别api转为文本  
  https://ai.baidu.com/ai-doc/SPEECH/Ek39uxgre
-### 3、使用文本与机器人交互
+### 3、发送文本内容与机器人交互
  利用图灵api获取机器人回答text  
  http://www.turingapi.com/
  
